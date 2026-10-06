@@ -1,0 +1,1 @@
+Open the .PrjPcb in Altium Designer. Subfolders preserve the supplied outputs. See the project guide in the GitHub repository for previews, validation status and tutorial credits. External model/library paths may require remapping.
